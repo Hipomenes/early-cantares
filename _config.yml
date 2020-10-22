@@ -2,9 +2,9 @@
 
 # Setup
 title:               Cantares mexicanos
-tagline:             'Early translations (1895-1935)'
+tagline:             'Early versions and translations (1854-1935)'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
+url:                 'http://hipomenes.github.io'
 baseurl:             '/early-cantares'
 
 # About/contact
