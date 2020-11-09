@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Cantar(Xopancuicatl)
+title: Cantar (Xopancuicatl)
 author: Sánchez Santos
 editor: DHC
 source: "Xopancuicatl, otoncuicatl, tlamelauhcayotl"
