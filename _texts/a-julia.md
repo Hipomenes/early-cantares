@@ -2,63 +2,34 @@
 layout: poem
 title: A Julia de Burgos
 author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+editor: DHC
+source: MS
 ---
 
-- Ya las gentes murmuran que yo soy tu enemiga
-- porque dicen que en verso doy al mundo mi yo.
+## 1. Cantar (Xopancuicatl)^["*Xopancuicatl, otoncuicatl, tlamelauhcayotl.*" CM, fol. {fol}.]
 
-- Mienten, *Julia de Burgos*. Mienten, Julia de Burgos.
-- La que se alza en mis versos no es tu voz: es mi voz
-- porque tú eres [ropaje](http://www.spanishdict.com/translate/ropaje) y la esencia soy yo; y el más
-- profundo abismo se tiende entre las dos.
+- Penetre yo, cantor, en aquellos múltiples verjeles; mansión muy alegre y deliciosa: allí llueve un rocío de rayos de sol; allí cantan amorosamente los pajarillos, y preludia su cantar el jilguero con espaciosa voz, sitio que regocija á Dios Hacedor Supremo.
+-
+- ¡Salve, salve!
+-
+- Allí escucho yo, cantor, el comenzar de un canto que ciertamente no se preludia así sobre la tierra, por su novedad en el cantar. ¡Oh! Allá dentro del cielo se escucha bienal polluelo del primer jilguero, que les dice á las múltiples aves de variados colores y rico plumaje: allí tiene su mrada el Hacedor Supremo.
+-
+-  ¡Salve, salve!
+- 
+- Se dilata mi corazón y se eleva mi pensamiento, yo, cantor, por lo que he oído, y quisiera elevarme á esos cielos lucientes; que mis suspiros llevados por la brisa, penetraron donde el dorado colibrí canta á los cielos.
+- 
+-  ¡Salve, salve!
+- 
+- Y mi crazón por todas partes busca, y en efecto, ciertamente, no hallo otro precioso pájaro de voz más melodiosa, porque ciertamente superan dentro del cielo las cosas que se hacen para el Hacedor Supremo, y sólo que el pensamiento se eleve á las cosas divinas, podrá comprender la hermosura de los cielos, que regocija á los bellos pajarillos celestiales, en presencia del Hacedor Supremo.
+- 
+-  ¡Salve, salve!
+- 
+-  ¿Cómo he de llorar sobre la tierra? Efectivamente, aquí se vive engañado; todo cuanto existe en la tierra se acaba con la vida. Que pueda, ¡oh Todopoderoso! cantarte allá en el cielo: que mi corazón en tu morada te contemple y en tu compañía viva.
+- 
+-  ¡Salve, salve!
+- 
+- Escucha mi canto, amigo mío: mi tamboril adornado con flores resonaba acompañado el canto celestial que yo entonaba para agradar á los nobles, y derramaba los sentimientos de mi corazón como flores que brotan. Ojalá que mi canto se glorifique ante el Hacedr Supremo.
+- 
+-  ¡Salve, salve!
 
-- Tú eres fria muñeca de mentira social,
-- y yo, viril destello de la humana verdad.
 
-- Tú, miel de cortesana hipocresías; yo no;
-- que en todos mis poemas desnudo el corazón.
-
-- Tú eres como tu mundo, egoísta;
-- yo no; que en todo me lo juego a ser lo que soy yo.
-
-- Tú eres sólo la grave señora señorona; yo no,
-- yo soy la vida, la fuerza, la mujer.
-
-- Tú eres de tu marido, de tu amo; yo no;
-- yo de nadie, o de todos, porque a todos, a
-- todos en mi limpio sentir y en mi pensar me doy.
-
-- Tú te rizas el pelo y te pintas; yo no;
-- a mí me riza el viento, a mí me pinta el sol.
-
-- Tú eres dama casera, resignada, sumisa,
-- atada a los prejuicios de los hombres; yo no;
-- que yo soy Rocinante corriendo desbocado
-- olfateando horizontes de justicia de Dios.
-
-- Tú en ti misma no mandas;
-- a ti todos te mandan; en ti mandan tu esposo, tus
-- padres, tus parientes, el cura, el modista,
-- el teatro, el casino, el auto,
-- las alhajas, el banquete, el champán, el cielo
-- y el infierno, y el que dirán social.
-
-- En mí no, que en mí manda mi solo corazón,
-- mi solo pensamiento; quien manda en mí soy yo.
-
-- Tú, flor de aristocracia; y yo, la flor del pueblo.
-- Tú en ti lo tienes todo y a todos se
-- lo debes, mientras que yo, mi nada a nadie se la debo.
-
-- Tú, clavada al estático dividendo ancestral,
-- y yo, un uno en la cifra del divisor
-- social somos el duelo a muerte que se acerca fatal.
-
-- Cuando las multitudes corran alborotadas
-- dejando atrás cenizas de injusticias quemadas,
-- y cuando con la tea de las siete virtudes,
-- tras los siete pecados, corran las multitudes,
-- contra ti, y contra todo lo injusto y lo inhumano,
-- yo iré en medio de ellas con la tea en la mano.
