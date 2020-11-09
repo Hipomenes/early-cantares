@@ -1,12 +1,11 @@
 ---
 layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
+title: Cantar(Xopancuicatl)
+author: Sánchez Santos
 editor: DHC
-source: MS
+source: "Xopancuicatl, otoncuicatl, tlamelauhcayotl"
 ---
 
-## 1. Cantar (Xopancuicatl)^["*Xopancuicatl, otoncuicatl, tlamelauhcayotl.*" CM, fol. {fol}.]
 
 - Penetre yo, cantor, en aquellos múltiples verjeles; mansión muy alegre y deliciosa: allí llueve un rocío de rayos de sol; allí cantan amorosamente los pajarillos, y preludia su cantar el jilguero con espaciosa voz, sitio que regocija á Dios Hacedor Supremo.
 -
