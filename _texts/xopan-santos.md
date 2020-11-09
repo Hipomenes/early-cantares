@@ -3,9 +3,7 @@ layout: poem
 title: Cantar (Xopancuicatl)
 author: Sánchez Santos
 editor: DHC
-source: "Xopancuicatl, otoncuicatl, tlamelauhcayotl"
 ---
-
 
 - Penetre yo, cantor, en aquellos múltiples verjeles; mansión muy alegre y deliciosa: allí llueve un rocío de rayos de sol; allí cantan amorosamente los pajarillos, y preludia su cantar el jilguero con espaciosa voz, sitio que regocija á Dios Hacedor Supremo.
 -
